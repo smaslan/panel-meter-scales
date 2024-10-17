@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="meter_400V_dcbus.svg">
+   sodipodi:docname="meter_4A.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.9808736"
-     inkscape:cx="184.97821"
-     inkscape:cy="132.93053"
+     inkscape:zoom="3.4904368"
+     inkscape:cx="165.50762"
+     inkscape:cy="148.87512"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -475,83 +475,66 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="84.911201"
-       y="289.94211"
+       x="90.025482"
+       y="289.66083"
        id="text4799-1"
        sodipodi:linespacing="125%"
        transform="matrix(0.93112082,-0.36471086,0.36471086,0.93112082,0,0)"><tspan
          sodipodi:role="line"
          id="tspan4801-7"
-         x="84.911201"
-         y="289.94211"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:12.5px;font-family:Arial;-inkscape-font-specification:'Arial Bold Condensed';letter-spacing:-0.2px">100</tspan></text>
+         x="90.025482"
+         y="289.66083"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:12.5px;font-family:Arial;-inkscape-font-specification:'Arial Bold Condensed';letter-spacing:-0.2px">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="227.02904"
-       y="229.87177"
+       x="232.60257"
+       y="229.61716"
        id="text4799-1-8"
        sodipodi:linespacing="125%"
        transform="matrix(0.99996091,-0.00884162,0.00884162,0.99996091,0,0)"><tspan
          sodipodi:role="line"
          id="tspan4801-7-3"
-         x="227.02904"
-         y="229.87177"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:12.5px;font-family:Arial;-inkscape-font-specification:'Arial Bold Condensed';letter-spacing:-0.2px">200</tspan></text>
+         x="232.60257"
+         y="229.61716"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:12.5px;font-family:Arial;-inkscape-font-specification:'Arial Bold Condensed';letter-spacing:-0.2px">2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="334.15887"
-       y="134.4381"
+       x="339.73227"
+       y="133.86099"
        id="text4799-1-8-8"
        sodipodi:linespacing="125%"
        transform="matrix(0.9486527,0.31631954,-0.31631954,0.9486527,0,0)"><tspan
          sodipodi:role="line"
          id="tspan4801-7-3-9"
-         x="334.15887"
-         y="134.4381"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:12.5px;font-family:Arial;-inkscape-font-specification:'Arial Bold Condensed';letter-spacing:-0.2px">300</tspan></text>
+         x="339.73227"
+         y="133.86099"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:12.5px;font-family:Arial;-inkscape-font-specification:'Arial Bold Condensed';letter-spacing:-0.2px">3</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="403.88745"
-       y="-35.272255"
+       x="409.33551"
+       y="-35.451046"
        id="text4799-1-8-8-0"
        sodipodi:linespacing="125%"
        transform="matrix(0.72095213,0.69298487,-0.69298487,0.72095213,0,0)"><tspan
          sodipodi:role="line"
          id="tspan4801-7-3-9-5"
-         x="403.88745"
-         y="-35.272255"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:12.5px;font-family:Arial;-inkscape-font-specification:'Arial Bold Condensed';letter-spacing:-0.2px">400</tspan></text>
+         x="409.33551"
+         y="-35.451046"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:12.5px;font-family:Arial;-inkscape-font-specification:'Arial Bold Condensed';letter-spacing:-0.2px">4</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="229.7316"
-       y="272.26736"
+       x="229.53296"
+       y="279.55096"
        id="text4899"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4901"
-         x="229.7316"
-         y="272.26736"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:27.5px;font-family:Arial;-inkscape-font-specification:'Arial Bold Condensed'">V</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="213.53226"
-       y="290.37134"
-       id="text4903"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4905"
-         x="213.53226"
-         y="290.37134"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:15px;font-family:Arial;-inkscape-font-specification:'Arial Bold Condensed'">DC BUS</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 214.09918,275.98969 c 46.29045,0 46.29045,0 46.29045,0"
-       id="path4907"
-       inkscape:connector-curvature="0" />
+         x="229.53296"
+         y="279.55096"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:27.5px;font-family:Arial;-inkscape-font-specification:'Arial Bold Condensed'">A</tspan></text>
   </g>
 </svg>
